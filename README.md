@@ -18,4 +18,5 @@ This project is a Hospital Database Management System (DBMS) built as a course p
 
 ## 🧬 ER Diagram
 
-![Hospital ERD](appointment_erd (3).png)
+![Hospital ERD](appointment_erd.png)
+
