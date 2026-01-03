@@ -173,6 +173,7 @@ Records monetary transactions.
 
 ![Hospital ERD](appointment_erd%20(3).png)
 
+
 ## 2. Queries
 
 ### 2.1 Functions and Procedures / Cursors and Records / Packages and Exceptions
