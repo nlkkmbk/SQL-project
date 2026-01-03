@@ -154,7 +154,7 @@ Records monetary transactions.
 - `amount`
 - `payment_date`
 
-### 1.2 🔗 Relationship Cardinality
+### 1.2 Relationship Cardinality
 
 | Relationship              | Cardinality | Description                                                                 |
 |---------------------------|------------|-----------------------------------------------------------------------------|
@@ -169,7 +169,7 @@ Records monetary transactions.
 | Bill → Appointment        | 1 : 1      | One bill is generated for each appointment.                                |
 | Payment → Bill            | M : 1      | Each payment belongs to one bill; one bill can have many payments.         |
 
-## 🧬 ER Diagram
+## ER Diagram
 
 ![Hospital ERD](appointment_erd%20(3).png)
 
