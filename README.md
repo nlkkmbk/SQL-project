@@ -16,3 +16,6 @@ This project is a Hospital Database Management System (DBMS) built as a course p
 | Bill → Appointment        | 1 : 1      | One bill is generated for each appointment.                                |
 | Payment → Bill            | M : 1      | Each payment belongs to one bill; one bill can have many payments.         |
 
+## 🧬 ER Diagram
+
+![Hospital ERD](appointment_erd (3).png)
